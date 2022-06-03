@@ -1,3 +1,6 @@
 Text for header
-Changes from <master> - new changes
+Changes from <master> 
+Changes from <white>
+
+Changes from <master>: new changes
 
